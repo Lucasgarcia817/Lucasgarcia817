@@ -26,3 +26,12 @@
 <img align="center" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/e06e054a-a8ba-4573-9071-8a0e0dd562fa">
 </a>
 </div>
+
+<br>
+
+###Skills
+<div align="left">
+
+
+
+</div>
