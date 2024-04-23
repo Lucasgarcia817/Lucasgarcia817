@@ -34,21 +34,19 @@
   
 <img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/2a96d2f3-2e1a-411b-b039-81724bbbc46b">
 
-<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/e06e054a-a8ba-4573-9071-8a0e0dd562fa">
+<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/47f43479-0c33-445a-8c22-b2fe017f5d4e">
 
-<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/e06e054a-a8ba-4573-9071-8a0e0dd562fa">
+<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/83f6ec9d-702a-4001-8559-8cddad8a9e7e">
 
-<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/e06e054a-a8ba-4573-9071-8a0e0dd562fa">
+<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/52cb2e66-882c-4ceb-be7a-7c1ec4412827">
 
-<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/e06e054a-a8ba-4573-9071-8a0e0dd562fa">
+<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/6bea187d-32f3-4cb8-8bc9-5c0ac40858d7">
 
-<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/e06e054a-a8ba-4573-9071-8a0e0dd562fa">
+<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/569ae56b-bfb6-478e-8a56-a3b3994f6db6">
 
-<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/e06e054a-a8ba-4573-9071-8a0e0dd562fa">
+<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/dba27a50-45f6-4480-93ff-5b5fc2145ed1">
 
-<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/e06e054a-a8ba-4573-9071-8a0e0dd562fa">
-
-<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/e06e054a-a8ba-4573-9071-8a0e0dd562fa">
+<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/3f82835f-f16b-4e96-a6d3-70e9c824f525">
 
 
 </div>
