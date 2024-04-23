@@ -52,11 +52,11 @@
 ### Currently 
 <div align="left">
 
-<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/47f43479-0c33-445a-8c22-b2fe017f5d4e">
+<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/d5e11724-1dd5-4b06-b5de-ea4cc5a0df5f">
 
-<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/83f6ec9d-702a-4001-8559-8cddad8a9e7e">
+<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/7e3f823e-8f30-44b3-ad27-3faa03a5304f">
 
-<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/52cb2e66-882c-4ceb-be7a-7c1ec4412827">
+<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/89271009-90b6-4a5b-bcc3-2a687f2ed1ff">
 
 </div>
 
