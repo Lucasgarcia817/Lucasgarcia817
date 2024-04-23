@@ -52,6 +52,7 @@
 <br>
 
 <h2>Currently</h2>
+<br>
 <div align="left">
 
 <img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/d5e11724-1dd5-4b06-b5de-ea4cc5a0df5f">
