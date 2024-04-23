@@ -6,5 +6,7 @@
 <br>
 
 <div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucasgarcia817&theme=sea-dark)](https://git.io/streak-stats)
+
 </div>
