@@ -31,7 +31,24 @@
 
 ### Skills
 <div align="left">
+  
+<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/2a96d2f3-2e1a-411b-b039-81724bbbc46b">
 
+<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/e06e054a-a8ba-4573-9071-8a0e0dd562fa">
+
+<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/e06e054a-a8ba-4573-9071-8a0e0dd562fa">
+
+<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/e06e054a-a8ba-4573-9071-8a0e0dd562fa">
+
+<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/e06e054a-a8ba-4573-9071-8a0e0dd562fa">
+
+<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/e06e054a-a8ba-4573-9071-8a0e0dd562fa">
+
+<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/e06e054a-a8ba-4573-9071-8a0e0dd562fa">
+
+<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/e06e054a-a8ba-4573-9071-8a0e0dd562fa">
+
+<img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/e06e054a-a8ba-4573-9071-8a0e0dd562fa">
 
 
 </div>
