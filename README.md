@@ -28,7 +28,6 @@
 </div>
 
 <br>
-<br>
 
 ### Skills
 <div align="left">
