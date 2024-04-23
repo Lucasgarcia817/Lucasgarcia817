@@ -22,7 +22,7 @@
 <img align="center" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/1defb4d8-9815-44cf-86c7-afdb45b9a4fd">
 </a>
 
-<a href="[https://www.instagram.com/_gslucas/](https://www.linkedin.com/in/lucasgarcia-santos/)" target="blank"> 
+<a href="https://www.linkedin.com/in/lucasgarcia-santos/" target="blank"> 
 <img align="center" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/1defb4d8-9815-44cf-86c7-afdb45b9a4fd">
 </a>
 </div>
