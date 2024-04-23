@@ -2,3 +2,9 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=1600F7&center=true&vCenter=true&random=false&width=900&lines=Hi!+I'm+Lucas.;I'm+Software+Engineer;I'm+from+Brazil)](https://git.io/typing-svg)
+
+<br>
+
+<div align=center>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucasgarcia817&theme=sea-dark)](https://git.io/streak-stats)
+</div>
