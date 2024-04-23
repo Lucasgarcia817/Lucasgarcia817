@@ -52,8 +52,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <h2>Currently</h2>
 
