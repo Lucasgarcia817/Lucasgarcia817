@@ -19,6 +19,6 @@
 <div align="center">
 
 <a href="https://www.instagram.com/_gslucas/" target="blank"> 
-<img align="center" width=80 height=80 src="https://www.flaticon.com/br/icones-gratis/logotipo-do-instagram" title="logotipo do instagram ícones](https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/1defb4d8-9815-44cf-86c7-afdb45b9a4fd)">
+<img align="center" width=80 height=80 src="">
 </a>
 </div>
