@@ -13,3 +13,12 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucasgarcia817&theme=transparent)](https://git.io/streak-stats)
 
 </div>
+
+<br>
+
+<div align="center">
+
+<a href="https://www.instagram.com/_gslucas/" target="blank"> 
+<img align="center" width=80 height=80 src="https://www.flaticon.com/br/icones-gratis/logotipo-do-instagram" title="logotipo do instagram ícones">
+</a>
+</div>
