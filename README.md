@@ -47,6 +47,7 @@
 <img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/569ae56b-bfb6-478e-8a56-a3b3994f6db6">
 
 </div>
+
 <br>
 
 ### Currently 
