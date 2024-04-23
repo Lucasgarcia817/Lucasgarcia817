@@ -29,7 +29,7 @@
 
 <br>
 
-### Skills
+<h2>Currently</h2>
 <div align="left">
 
 <img align="left" width=80 height=80 src="https://github.com/Lucasgarcia817/Lucasgarcia817/assets/62484945/47f43479-0c33-445a-8c22-b2fe017f5d4e">
